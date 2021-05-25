@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "clean"]
+	path = clean
+	url = https://github.com/msberends/cleaner
+	shallow = true
+	registered = true
+[submodule "cleaner"]
+	path = cleaner
+	url = https://github.com/msberends/cleaner
+	shallow = true
+	registered = true

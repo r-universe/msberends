@@ -1,0 +1,10 @@
+[
+  {
+    "package": "clean",
+    "oncran": true
+  },
+  {
+    "package": "cleaner",
+    "oncran": true
+  }
+]
