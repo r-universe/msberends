@@ -3,10 +3,6 @@
     "package": "AMR"
   },
   {
-    "package": "clean",
-    "oncran": false
-  },
-  {
     "package": "cleaner",
     "oncran": true
   }
