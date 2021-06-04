@@ -1,7 +1,7 @@
 [
   {
     "package": "AMR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "cleaner",
