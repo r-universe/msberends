@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/msberends/universe
-	shallow = true
 	branch = HEAD
 [submodule "AMR"]
 	path = AMR
 	url = https://github.com/msberends/AMR
-	shallow = true
-	registered = true
 [submodule "cleaner"]
 	path = cleaner
 	url = https://github.com/msberends/cleaner
-	shallow = true
-	registered = true
