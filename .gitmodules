@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/msberends/universe
+	url = https://github.com/msberends/msberends.r-universe.dev
 	branch = HEAD
 [submodule "AMR"]
 	path = AMR
