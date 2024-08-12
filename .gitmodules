@@ -8,3 +8,6 @@
 [submodule "cleaner"]
 	path = cleaner
 	url = https://github.com/msberends/cleaner
+[submodule "plot2"]
+	path = plot2
+	url = https://github.com/msberends/plot2
